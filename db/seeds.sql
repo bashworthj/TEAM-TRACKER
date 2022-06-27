@@ -27,4 +27,3 @@ VALUES
 ('Joey', 'Rueswald', 7, null),
 ('Collin', 'Mondrick', 8, 7);
 
-
